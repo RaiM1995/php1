@@ -1,0 +1,19 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+.card{
+background-color:cornflowerblue
+
+}
+
+.no-gutters {
+  
+    background: #adb5bd;
+}
